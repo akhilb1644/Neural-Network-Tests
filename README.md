@@ -1,15 +1,11 @@
 <h1>Observing Differences Between Different Optimizers</h1>
 
-<p1>The following is Adam optimization</p1>
+<img width="567" height="455" alt="image" src="https://github.com/user-attachments/assets/6b0b26a3-ecf3-49fa-941c-ea0236c474ed" />
 
-<img width="576" height="455" alt="image" src="https://github.com/user-attachments/assets/d1ff7659-e8bc-4ef9-9dd0-698f858ccc28" />
+<h1>Observing differences between learning rates</h1>
 
-<p1>The following is Stochastic Gradient Descent</p1>
+<img width="586" height="455" alt="image" src="https://github.com/user-attachments/assets/9cb2e55b-cbf2-47fc-954b-32e393330933" />
 
-<img width="567" height="455" alt="image" src="https://github.com/user-attachments/assets/832aba8f-69e4-40d2-a0b1-2fbef554b817" />
+<img width="567" height="455" alt="image" src="https://github.com/user-attachments/assets/95705949-ad70-413b-876d-92b4bd0a43e5" />
 
-<p1>The following is Adagrad</p1>
-
-<img width="584" height="455" alt="image" src="https://github.com/user-attachments/assets/39cf6b5c-8d3e-487f-8445-2f8f5eea08de" />
-
-<p1>As we can see, the best optimizer is Adam optimization</p1>
+<img width="584" height="455" alt="image" src="https://github.com/user-attachments/assets/8fa1273d-4c5b-4f77-9335-8b8bde168884" />
