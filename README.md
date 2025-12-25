@@ -1,6 +1,6 @@
 <h1>NOTE: A graph line ending early just indicates convergence with training error</h1>
 
-<h1>Observing Differences Between Different Optimizers</h1>
+<h1>Observing Differences Between Different Optimizers - Regression</h1>
 
 <img width="567" height="455" alt="image" src="https://github.com/user-attachments/assets/6b0b26a3-ecf3-49fa-941c-ea0236c474ed" />
 
@@ -12,4 +12,8 @@
 
 <img width="567" height="455" alt="image" src="https://github.com/user-attachments/assets/95705949-ad70-413b-876d-92b4bd0a43e5" />
 
+<p1>It looks like SGD converges very slowly and starts far from converged loss</p1>
+
 <img width="584" height="455" alt="image" src="https://github.com/user-attachments/assets/8fa1273d-4c5b-4f77-9335-8b8bde168884" />
+
+<p1>Adarad starts closest to the solution out of the other three but the problem is that it can take a long time to converge, more time than Adam in some cases</p1>
