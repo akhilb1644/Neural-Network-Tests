@@ -1,3 +1,5 @@
+<h1>NOTE: A graph line ending early just indicates convergence with training error</h1>
+
 <h1>Observing Differences Between Different Optimizers</h1>
 
 <img width="567" height="455" alt="image" src="https://github.com/user-attachments/assets/6b0b26a3-ecf3-49fa-941c-ea0236c474ed" />
